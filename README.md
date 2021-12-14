@@ -4,7 +4,7 @@
   </a>
 </p>
 
-## Bragging Rights
+## my bragging rights that I reserve the right to recite to strangers at parties
 - 100+ open source repositories on GitHub / retired FOSS dev
 - built a P2P scaling video conferencing product before Teams was a thing when WebRTC was "bleeding edge" and "unstable"
 - one of the first smartwatch developers building apps for the Pebble watch, including a unique interface for controlling video games using smartwatch-recognized gestures in 2015
