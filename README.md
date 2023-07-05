@@ -4,7 +4,8 @@
   </a>
 </p>
 
-## bragging rights that I reserve the right to recite to strangers at parties
+## bragging rights
+
 - 100+ open source repositories that I never maintain and some 30 or so domains I bought once and will never use
 - built a P2P scaling video conferencing product before Teams was a thing when WebRTC was "bleeding edge" and "unstable"
 - one of the first smartwatch developers building apps for the Pebble watch, incl. a tool to turn your watch into a gesture-based controller for video games
@@ -15,4 +16,3 @@
 - owned BTC when it was pennies on the dollar, owned ETH when it was below $10
 - worked w/ a crypto company during the first ICO boom, and have bought the peak ever since
 - 2x presenter at NYC World Maker Faire (2015, 2016)
-- fair share of hackathon hoodies, CTF prizes, and the "peaked in highschool" awards: Scholastic Gold Medalist, Nat. Merit Finalist, etc
